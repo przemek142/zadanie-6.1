@@ -1,0 +1,11 @@
+zadanie-java-16
+Link do zadania
+Link do rozwiązania
+Napisz program, w którym utworzysz tablicę 10 losowych liczb całkowitych. Tablica powinna być
+wypełniona w pętli z wykorzystaniem klasy Random.
+Następnie w drugiej pętli wyświetl na ekranie zawartość tablicy oraz jej lustrzane odbicie.
+Możesz do tego wykorzystać tylko jedną jedną pętlę for.
+np. dla tablicy [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] powinno się wyświetlić:
+1 2 3 4 5 6 7 8 9 10 10 9 8 7 6 5 4 3 2 1
+Po zmianie rozmiaru tablicy reszta programu powinna działać bez konieczności wprowadzania zmian.
+
